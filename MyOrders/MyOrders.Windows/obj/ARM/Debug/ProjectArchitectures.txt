@@ -1,0 +1,2 @@
+C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Windows\MyOrders.Windows.csproj;arm
+C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders\MyOrders.csproj;neutral

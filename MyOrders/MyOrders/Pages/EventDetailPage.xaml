@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MyOrders.Pages.EventDetailPage" 
+             xmlns:maps="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps"
+             BackgroundColor="{StaticResource BackgroundColor}"
+             Title="Developer Event" >
+
+    <ContentPage.Content>
+      <ScrollView>
+      <Grid Padding="8">
+        <Grid.RowDefinitions>
+          <RowDefinition Height="Auto"></RowDefinition>
+          <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Image
+          WidthRequest="250" HeightRequest="150" VerticalOptions="Start"
+          Source="{Binding Image}"></Image>
+        <StackLayout Grid.Row="1">
+          <Label
+            FontAttributes="Bold"
+            VerticalOptions="Center"
+            TextColor="{StaticResource FontColor}"
+            Text="{Binding Title}"></Label>
+          <Label
+              VerticalOptions="Center"
+              TextColor="{StaticResource FontColor}"
+              Text="{Binding Description}"></Label>
+          <StackLayout Orientation="Horizontal">
+            <Label
+              VerticalOptions="Center"
+              TextColor="{StaticResource MainColor}"
+              Text="시간: "></Label>
+            <Label
+              VerticalOptions="Center"
+              TextColor="{StaticResource MainColor}"
+              Text="{Binding DeliveryDate, StringFormat='{0:yyyy/MM/dd}'}"></Label>
+          </StackLayout>
+          <StackLayout Orientation="Horizontal">
+            <Label
+              VerticalOptions="Center"
+              TextColor="{StaticResource FontColor}"
+              Text="장소: "></Label>
+            <Label
+              VerticalOptions="Center"
+              TextColor="{StaticResource FontColor}"
+              Text="{Binding Venue}"></Label>
+          </StackLayout>
+          
+          <StackLayout Orientation="Horizontal">
+            <Label
+              VerticalOptions="Center"
+              TextColor="{StaticResource FontColor}"
+              Text="강사: "></Label>
+            <Label
+              VerticalOptions="Center"
+              TextColor="{StaticResource FontColor}"
+              Text="{Binding Speaker}"></Label>
+          </StackLayout>
+          <StackLayout Orientation="Horizontal">
+            <Label
+              VerticalOptions="Center"
+              TextColor="{StaticResource FontColor}"
+              Text="대상: "></Label>
+            <Label
+              VerticalOptions="Center"
+              TextColor="{StaticResource FontColor}"
+              Text="{Binding Audience}"></Label>
+          </StackLayout>
+          
+         
+          <maps:Map 
+            WidthRequest="320" HeightRequest="200"
+            x:Name="MyMap"
+            IsShowingUser="true"
+            MapType="Street"
+          />
+          <Button 
+            x:Name="MyButton"
+            HeightRequest="40"
+            BorderRadius="20"
+            Clicked="ButtonClicked"></Button>
+        </StackLayout>
+      </Grid>
+      </ScrollView>
+    </ContentPage.Content>
+  
+</ContentPage>

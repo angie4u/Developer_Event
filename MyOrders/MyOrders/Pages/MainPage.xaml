@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MyOrders.Pages.MainPage"
+             BackgroundColor="{StaticResource BackgroundColor}"
+             Title="Developer Event"
+             BindingContext="{Binding Main, Source={StaticResource Locator}}">
+  <Grid>
+    <Grid.RowDefinitions>
+      <RowDefinition Height="Auto"></RowDefinition>
+      <RowDefinition Height="*"></RowDefinition>
+    </Grid.RowDefinitions>
+    <StackLayout Orientation="Horizontal" Padding="8,8,8,0" HorizontalOptions="Center">
+      <Button
+        x:Name ="LastMonth"
+        HeightRequest="40"
+        WidthRequest="50"
+        BorderRadius="20"
+        Text="&lt;"
+        Clicked="LastMonthClicked"></Button>
+      <Label
+        x:Name ="Month"
+        VerticalOptions="Center"
+        TextColor="{StaticResource FontColor}"></Label>
+      <Button
+        x:Name ="NextMonth"
+        HeightRequest="40"
+        WidthRequest="50"
+        BorderRadius="20"
+        Text="&gt;"
+        Clicked="NextMonthClicked"></Button>
+    </StackLayout>
+    
+    <StackLayout Grid.Row="1" >
+      <ListView
+      x:Name="MyList"
+      ItemTemplate="{StaticResource OrderItemTemplate}"
+      ItemsSource="{Binding Orders}"
+      ItemSelected="MyListView_ItemSelected"
+      HasUnevenRows="True">
+      </ListView>
+    </StackLayout>
+    
+
+  </Grid>
+ 
+  <ContentPage.ToolbarItems>
+  </ContentPage.ToolbarItems>
+</ContentPage>
