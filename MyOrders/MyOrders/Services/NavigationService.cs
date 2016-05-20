@@ -15,9 +15,7 @@ namespace MyOrders.Services
             App.Master.IsPresented = false;
             switch (pageName)
             {
-                case "NewOrderPage":
-                    await Navigate(new NewOrderPage());
-                    break;
+                
                 case "AlarmsPage":
                     await Navigate(new AlarmsPage());
                     break;
@@ -28,7 +26,7 @@ namespace MyOrders.Services
                     await Navigate(new SettingsPage());
                     break;
                 case "MainPage":
-                    await App.Navigator.PopToRootAsync();
+                    await Navigate(new MainPage());
                     break;
                 case "Microsoft Developer":
                     await Navigate(new WebViewPage("https://www.facebook.com/MicrosoftDeveloper.Korea", pageName));

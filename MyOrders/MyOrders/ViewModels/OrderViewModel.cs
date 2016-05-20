@@ -56,35 +56,35 @@ namespace MyOrders.ViewModels
 
 
 
-        public ICommand SaveCommand
-        {
-            get { return new RelayCommand(Save); }
-        }
+        //public ICommand SaveCommand
+        //{
+        //    get { return new RelayCommand(Save); }
+        //}
 
 
-        private async void Save()
-        {
-            try
-            {
-                await apiService.CreateOrder(new Order()
-                {
-                    Id = Guid.NewGuid().ToString(),
-                    Title = this.Title,
-                    Client = this.Client,
-                    DeliveryDate = this.DeliveryDate,
-                    DeliveryInformation = this.DeliveryInformation,
-                    Description = this.Description,                                        
-                    IsDelivered = false                                    
-                    ,
+        //private async void Save()
+        //{
+        //    try
+        //    {
+        //        await apiService.CreateOrder(new Order()
+        //        {
+        //            Id = Guid.NewGuid().ToString(),
+        //            Title = this.Title,
+        //            Client = this.Client,
+        //            DeliveryDate = this.DeliveryDate,
+        //            DeliveryInformation = this.DeliveryInformation,
+        //            Description = this.Description,                                        
+        //            IsDelivered = false                                    
+        //            ,
                     
-            });
+        //    });
 
-                await dialogService.ShowMessage("El pedido ha sido creado.", "Información");
-            }
-            catch 
-	        {
-                await dialogService.ShowMessage("Ha ocuarrido un error inesperado.", "Error");
-            }
-        }
+        //        await dialogService.ShowMessage("El pedido ha sido creado.", "Información");
+        //    }
+        //    catch 
+	       // {
+        //        await dialogService.ShowMessage("Ha ocuarrido un error inesperado.", "Error");
+        //    }
+        //}
     }
 }

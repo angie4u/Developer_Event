@@ -83,6 +83,8 @@ C:\Users\eunk\Documents\GitHub\xamarin-forms-lab\Code\MyOrders\MyOrders\MyOrders
 C:\Users\eunk\Documents\GitHub\xamarin-forms-lab\Code\MyOrders\MyOrders\MyOrders.Droid\bin\Debug\MyOrders.Droid.dll.mdb
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\Debug\MyOrders.Droid.dll
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\Debug\MyOrders.Droid.pdb
+C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\Debug\com.sevenstars.developerevent.apk
+C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\Debug\com.sevenstars.developerevent-Signed.apk
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\Debug\FormsViewGroup.dll
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\Debug\GalaSoft.MvvmLight.dll
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\Debug\GalaSoft.MvvmLight.Extras.dll
@@ -98,6 +100,8 @@ C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\D
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\Debug\Xamarin.Forms.Maps.Android.dll
+C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\Debug\Xamarin.Forms.Maps.dll
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\Debug\Xamarin.Forms.Platform.dll
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
@@ -123,6 +127,7 @@ C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\D
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\Debug\Xamarin.Forms.Core.pdb
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\Debug\Xamarin.Forms.Core.xml
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\Debug\Xamarin.Forms.Maps.xml
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
@@ -132,6 +137,7 @@ C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\D
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\Debug\MyOrders.Droid.csprojResolveAssemblyReference.cache
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\Debug\MyOrders.Droid.dll
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\Debug\MyOrders.Droid.pdb
+C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\Debug\android\bin\com.sevenstars.developerevent.apk
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\Debug\res\drawable\icon.png
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\Debug\res\drawable-hdpi\icon.png
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\Debug\res\drawable-xhdpi\icon.png
@@ -188,11 +194,6 @@ C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\D
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\Debug\res\drawable-hdpi\img7.png
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\Debug\res\drawable-hdpi\img8.png
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\Debug\res\drawable-hdpi\img9.png
-C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\Debug\R.cs.flag
-C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\Debug\uploadflags.txt
-C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\Debug\Xamarin.Forms.Maps.Android.dll
-C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\Debug\Xamarin.Forms.Maps.dll
-C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\Debug\Xamarin.Forms.Maps.xml
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\Debug\res\drawable-hdpi\ic_web_dev2.png
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\Debug\res\drawable-hdpi\ic_action_eva.png
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\Debug\res\drawable-hdpi\ic_action_home2.png
@@ -243,10 +244,9 @@ C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\D
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\Debug\res\drawable-xxxhdpi\ic_action_msdn.png
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\Debug\res\drawable-xxxhdpi\ic_action_msdnnews.png
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\Debug\res\drawable-xxxhdpi\ic_action_technews.png
-C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\Debug\Developer_Event.Developer_Event.apk
-C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\Debug\Developer_Event.Developer_Event-Signed.apk
-C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\Debug\android\bin\Developer_Event.Developer_Event.apk
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\Debug\res\drawable-xxxhdpi\ic_logo.png
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\Debug\res\drawable-xxxhdpi\ic_launcher.png
+C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\Debug\R.cs.flag
+C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\Debug\uploadflags.txt
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\Debug\MyOrders.Droid.dll.mdb
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\Debug\MyOrders.Droid.dll.mdb

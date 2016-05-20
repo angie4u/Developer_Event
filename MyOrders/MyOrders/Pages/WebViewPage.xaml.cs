@@ -15,7 +15,16 @@ namespace MyOrders.Pages
             InitializeComponent();
             Browser.Source = url;
             Title = name;
-            //WebView.SourceProperty = url;
+
+
+
+        }
+
+        protected override bool OnBackButtonPressed()
+        {
+            Browser.GoBack();
+
+            return true;
         }
     }
 }
