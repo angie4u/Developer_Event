@@ -21,6 +21,7 @@ C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders\bin\Release
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders\bin\Release\Xamarin.Forms.Platform.pdb
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders\bin\Release\Xamarin.Forms.Xaml.pdb
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders\obj\Release\MyOrders.csprojResolveAssemblyReference.cache
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders\obj\Release\MyOrders.App.xaml.g.cs
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders\obj\Release\MyOrders.Pages.MasterPage.xaml.g.cs
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders\obj\Release\MyOrders.Pages.MenuPage.xaml.g.cs
@@ -34,9 +35,6 @@ C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders\obj\Release
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders\obj\Release\MyOrders.Pages.EventDetailPage.xaml.g.cs
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders\obj\Release\MyOrders.dll
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders\obj\Release\MyOrders.pdb
-C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders\obj\Release\MyOrders.csprojResolveAssemblyReference.cache
-C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders\obj\Release\MyOrders.dll.mdb
-C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders\bin\Release\MyOrders.dll.mdb
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders\obj\Release\MyOrders.dll.mdb
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders\bin\Release\MyOrders.dll.mdb
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders\obj\Release\MyOrders.dll.mdb

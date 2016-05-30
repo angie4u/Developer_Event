@@ -72,11 +72,13 @@ namespace MyOrders.Pages
             {
                 //행사날짜가 지난경우 -> 다시보기 페이지로 이동
                 Navigation.PushAsync(new WebViewPage(ContentsURL,"다시보기"));
-
             }
             //행사가 지나지 않았으므로 -> 등록하기 페이지로 이동
-            Navigation.PushAsync(new WebViewPage(RegistrationURL, "등록하기"));
-
+            else
+            {
+                Navigation.PushAsync(new WebViewPage(RegistrationURL, "등록하기"));
+            }
+            
         }
 
     }

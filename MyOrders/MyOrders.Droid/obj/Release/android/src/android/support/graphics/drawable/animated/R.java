@@ -3245,6 +3245,7 @@ containing a value of this type.
         /**  Long form sign-in button text [CHAR LIMIT=30] 
          */
         public static int common_signin_button_text_long=0x7f06001e;
+        public static int library_name=0x7f060045;
         public static int mr_button_content_description=0x7f06001f;
         public static int mr_chooser_searching=0x7f060020;
         public static int mr_chooser_title=0x7f060021;

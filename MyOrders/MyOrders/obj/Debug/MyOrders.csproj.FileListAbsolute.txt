@@ -53,7 +53,6 @@ C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders\bin\Debug\X
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders\bin\Debug\Xamarin.Forms.Platform.pdb
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders\bin\Debug\Xamarin.Forms.Xaml.pdb
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders\bin\Debug\Xamarin.Forms.Xaml.xml
-C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders\obj\Debug\MyOrders.csprojResolveAssemblyReference.cache
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders\obj\Debug\MyOrders.App.xaml.g.cs
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders\obj\Debug\MyOrders.Pages.MasterPage.xaml.g.cs
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders\obj\Debug\MyOrders.Pages.MenuPage.xaml.g.cs
@@ -67,5 +66,7 @@ C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders\obj\Debug\M
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders\obj\Debug\MyOrders.Pages.EventDetailPage.xaml.g.cs
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders\obj\Debug\MyOrders.dll
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders\obj\Debug\MyOrders.pdb
+C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders\obj\Debug\MyOrders.dll.mdb
+C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders\bin\Debug\MyOrders.dll.mdb
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders\obj\Debug\MyOrders.dll.mdb
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders\bin\Debug\MyOrders.dll.mdb

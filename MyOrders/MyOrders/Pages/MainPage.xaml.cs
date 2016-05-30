@@ -7,6 +7,7 @@ using MyOrders.Services;
 using Xamarin.Forms;
 using MyOrders.ViewModels;
 using System.Collections.ObjectModel;
+using System.Diagnostics;
 
 namespace MyOrders.Pages
 {
@@ -40,7 +41,11 @@ namespace MyOrders.Pages
         {
             //OrderViewModel
             ApiService apiService = new ApiService();
+            
+
             var list = await apiService.GetAllEvent(today);
+
+           
 
             foreach (var item in list)
             {

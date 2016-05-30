@@ -7,13 +7,14 @@ using System.Linq;
 using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
+using System.Diagnostics;
 
 namespace MyOrders.Services
 {
     public class ApiService
     {
-        
 
+        
         public async Task<List<Order>> GetAllOrders()
         {
             using (HttpClient client = new HttpClient())
@@ -61,16 +62,18 @@ namespace MyOrders.Services
         {
             //DateTime today = DateTime.Now;
             
+
             List<Event> eventList = new List<Event>();
             HttpClient Client = new HttpClient();
             int datediff = 0;
             string param = today.ToString("yyyy-MM-dd");
+
+            
             Uri myUri = new Uri("http://sevenstars.azurewebsites.net/EventModels/getThisMonthEvent/" + param);
 
             HttpResponseMessage response = await Client.GetAsync(myUri);
             string jsonString = await response.Content.ReadAsStringAsync();
-
-
+           
             //JObject obj = JObject.Parse(jsonString);
             JArray array = JArray.Parse(jsonString);
 
@@ -106,9 +109,9 @@ namespace MyOrders.Services
             }
 
             return eventList;
+            
+        }
 
-        } 
 
-       
     }
 }

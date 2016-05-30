@@ -1,9 +1,12 @@
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\Release\MyOrders.Droid.dll
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\Release\MyOrders.Droid.pdb
+C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\Release\com.sevenstars.developerevent.apk
+C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\Release\com.sevenstars.developerevent-Signed.apk
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\Release\FormsViewGroup.dll
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\Release\GalaSoft.MvvmLight.dll
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\Release\GalaSoft.MvvmLight.Extras.dll
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\Release\GalaSoft.MvvmLight.Platform.dll
+C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\Release\GCM.Client.dll
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\Release\Microsoft.Practices.ServiceLocation.dll
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\Release\MyOrders.dll
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
@@ -52,6 +55,7 @@ C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\R
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\Release\MyOrders.Droid.csprojResolveAssemblyReference.cache
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\Release\MyOrders.Droid.dll
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\Release\MyOrders.Droid.pdb
+C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\Release\android\bin\com.sevenstars.developerevent.apk
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\Release\res\drawable\icon.png
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\Release\res\drawable-hdpi\icon.png
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\Release\res\drawable-xhdpi\icon.png
@@ -162,9 +166,6 @@ C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\R
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\Release\res\drawable-xxxhdpi\ic_launcher.png
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\Release\R.cs.flag
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\Release\uploadflags.txt
-C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\Release\com.sevenstars.developerevent.apk
-C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\Release\com.sevenstars.developerevent-Signed.apk
-C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\Release\android\bin\com.sevenstars.developerevent.apk
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\Release\MyOrders.dll.mdb
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\Release\MyOrders.Droid.dll.mdb
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\Release\MyOrders.Droid.dll.mdb

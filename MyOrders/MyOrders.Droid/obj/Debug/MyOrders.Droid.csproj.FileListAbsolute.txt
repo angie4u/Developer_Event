@@ -248,5 +248,7 @@ C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\D
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\Debug\res\drawable-xxxhdpi\ic_launcher.png
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\Debug\R.cs.flag
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\Debug\uploadflags.txt
+C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\Debug\GCM.Client.dll
+C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\Debug\MyOrders.dll.mdb
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\Debug\MyOrders.Droid.dll.mdb
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\Debug\MyOrders.Droid.dll.mdb

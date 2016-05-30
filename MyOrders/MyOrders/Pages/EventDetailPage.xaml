@@ -34,7 +34,15 @@
             <Label
               VerticalOptions="Center"
               TextColor="{StaticResource MainColor}"
-              Text="{Binding DeliveryDate, StringFormat='{0:yyyy/MM/dd}'}"></Label>
+              Text="{Binding DeliveryDate, StringFormat='{0:yyyy/MM/dd HH:mm}'}"></Label>
+            <Label
+              VerticalOptions="Center"
+              TextColor="{StaticResource MainColor}"
+              Text="~"></Label>
+            <Label
+              VerticalOptions="Center"
+              TextColor="{StaticResource MainColor}"
+              Text="{Binding EventEndDay, StringFormat='{0:HH:mm}'}"></Label>
           </StackLayout>
           <StackLayout Orientation="Horizontal">
             <Label

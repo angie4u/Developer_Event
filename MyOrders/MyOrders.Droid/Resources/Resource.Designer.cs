@@ -26,6 +26,7 @@ namespace MyOrders.Droid
 		
 		public static void UpdateIdValues()
 		{
+			global::Gcm.Client.Resource.String.library_name = global::MyOrders.Droid.Resource.String.library_name;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarSize = global::MyOrders.Droid.Resource.Attribute.actionBarSize;
 		}
 		
@@ -3485,6 +3486,9 @@ namespace MyOrders.Droid
 			
 			// aapt resource value: 0x7f06001e
 			public const int common_signin_button_text_long = 2131099678;
+			
+			// aapt resource value: 0x7f060045
+			public const int library_name = 2131099717;
 			
 			// aapt resource value: 0x7f06001f
 			public const int mr_button_content_description = 2131099679;
