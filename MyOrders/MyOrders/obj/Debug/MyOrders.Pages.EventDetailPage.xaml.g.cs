@@ -17,6 +17,12 @@ namespace MyOrders.Pages {
     public partial class EventDetailPage : global::Xamarin.Forms.ContentPage {
         
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.Label whichDate;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.StackLayout targetAudience;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private global::Xamarin.Forms.Maps.Map MyMap;
         
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
@@ -25,6 +31,8 @@ namespace MyOrders.Pages {
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
             this.LoadFromXaml(typeof(EventDetailPage));
+            whichDate = this.FindByName<global::Xamarin.Forms.Label>("whichDate");
+            targetAudience = this.FindByName<global::Xamarin.Forms.StackLayout>("targetAudience");
             MyMap = this.FindByName<global::Xamarin.Forms.Maps.Map>("MyMap");
             MyButton = this.FindByName<global::Xamarin.Forms.Button>("MyButton");
         }

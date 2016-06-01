@@ -66,3 +66,11 @@ C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.WinPhone\ob
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.WinPhone\obj\Release\Xamarin.Forms.Platform.WinRT.pri.xml
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.WinPhone\obj\Release\Xamarin.Forms.Platform.WinRT.Phone.pri.xml
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.WinPhone\obj\Release\ProjectArchitectures.txt
+C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.WinPhone\obj\Release\Microsoft.Practices.ServiceLocation\layout.resfiles
+C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.WinPhone\obj\Release\Microsoft.Practices.ServiceLocation\layout.resfiles.intermediate
+C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.WinPhone\obj\Release\Microsoft.Practices.ServiceLocation\Resources.resfiles
+C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.WinPhone\obj\Release\Microsoft.Practices.ServiceLocation\Resources.resfiles.intermediate
+C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.WinPhone\obj\Release\Microsoft.Practices.ServiceLocation\pri.resfiles
+C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.WinPhone\obj\Release\Microsoft.Practices.ServiceLocation\pri.resfiles.intermediate
+C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.WinPhone\obj\Release\Microsoft.Practices.ServiceLocation\priconfig.xml
+C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.WinPhone\obj\Release\Microsoft.Practices.ServiceLocation\priconfig.xml.intermediate

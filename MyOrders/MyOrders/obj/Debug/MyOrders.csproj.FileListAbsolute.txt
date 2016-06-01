@@ -68,5 +68,3 @@ C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders\obj\Debug\M
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders\obj\Debug\MyOrders.pdb
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders\obj\Debug\MyOrders.dll.mdb
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders\bin\Debug\MyOrders.dll.mdb
-C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders\obj\Debug\MyOrders.dll.mdb
-C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders\bin\Debug\MyOrders.dll.mdb

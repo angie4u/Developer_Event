@@ -166,6 +166,11 @@ C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\R
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\Release\res\drawable-xxxhdpi\ic_launcher.png
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\Release\R.cs.flag
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\Release\uploadflags.txt
+C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\Release\res\drawable-hdpi\ic_action_facebook.png
+C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\Release\res\drawable-mdpi\ic_action_facebook.png
+C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\Release\res\drawable-xhdpi\ic_action_facebook.png
+C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\Release\res\drawable-xxhdpi\ic_action_facebook.png
+C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\Release\res\drawable-xxxhdpi\ic_action_facebook.png
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\Release\MyOrders.dll.mdb
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\obj\Release\MyOrders.Droid.dll.mdb
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders.Droid\bin\Release\MyOrders.Droid.dll.mdb

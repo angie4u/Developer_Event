@@ -46,9 +46,7 @@ namespace MyOrders.Services
                 case "Technical Evangelist Blog":
                     await Navigate(new WebViewPage("https://blogs.msdn.microsoft.com/eva/", pageName));
                     break;
-                case "Conference":
-                    await Navigate(new WebViewPage("https://channel9.msdn.com/Events/Build/Build-Tour-Seoul-2015", pageName));
-                    break;
+               
                 case "Channel 9":
                     await Navigate(new WebViewPage("https://channel9.msdn.com/", pageName));
                     break;

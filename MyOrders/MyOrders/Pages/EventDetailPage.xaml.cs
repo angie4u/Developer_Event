@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -17,7 +18,7 @@ namespace MyOrders.Pages
         DateTime eventDay;
 
         
-        public EventDetailPage(double x, double y,string name, DateTime eventDay, string ContentsURL, string RegistrationURL)
+        public EventDetailPage(double x, double y,string name, DateTime eventDay, string ContentsURL, string RegistrationURL, string Audience)
         {
             InitializeComponent();
             string location = name;
@@ -37,6 +38,14 @@ namespace MyOrders.Pages
                 Label = location
             };
             MyMap.Pins.Add(pin);
+
+            if (String.IsNullOrEmpty(Audience))
+            {
+                targetAudience.IsVisible = false;
+            }
+
+            whichDate.Text = eventDay.ToString("dddd", new CultureInfo("ko-KR"));
+                
 
             if (today > eventDay)
             {
@@ -63,6 +72,8 @@ namespace MyOrders.Pages
                 }
                 
             }
+
+    
             
         }
 

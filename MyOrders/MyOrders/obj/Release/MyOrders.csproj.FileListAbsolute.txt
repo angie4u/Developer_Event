@@ -39,5 +39,3 @@ C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders\obj\Release
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders\bin\Release\MyOrders.dll.mdb
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders\obj\Release\MyOrders.dll.mdb
 C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders\bin\Release\MyOrders.dll.mdb
-C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders\obj\Release\MyOrders.dll.mdb
-C:\Users\eunk\Source\Workspaces\sevenstar\MyOrders\MyOrders\MyOrders\bin\Release\MyOrders.dll.mdb

@@ -33,6 +33,7 @@
     
     <StackLayout Grid.Row="1" >
       <ListView
+         SeparatorColor="#52656b"
       x:Name="MyList"
       ItemTemplate="{StaticResource OrderItemTemplate}"
       ItemsSource="{Binding Orders}"

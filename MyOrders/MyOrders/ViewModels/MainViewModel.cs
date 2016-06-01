@@ -129,14 +129,14 @@ namespace MyOrders.ViewModels
 
             Menu.Add(new MenuItemViewModel()
             {
-                Icon = "ic_action_console",
+                Icon = "ic_action_facebook",
                 Title = "Microsoft Developer",
                 PageName = "Microsoft Developer"
             });
 
             Menu.Add(new MenuItemViewModel()
             {
-                Icon = "ic_action_itpro",
+                Icon = "ic_action_facebook",
                 Title = "TechNet Korea",
                 PageName = "TechNet Korea"
             });
@@ -165,12 +165,7 @@ namespace MyOrders.ViewModels
                 Title = "Technical Evangelist Blog",
                 PageName = "Technical Evangelist Blog"
             });
-            Menu.Add(new MenuItemViewModel()
-            {
-                Icon = "ic_action_conf",
-                Title = "Conference",
-                PageName = "Conference"
-            });
+           
             Menu.Add(new MenuItemViewModel()
             {
                 Icon = "ic_action_ch9",
